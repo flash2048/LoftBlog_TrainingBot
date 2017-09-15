@@ -1,2 +1,4 @@
 # Материалы второго урока
-https://dev.botframework.com
+Публикация в Azure. Подключение. Использование различных команд.
+
+[https://dev.botframework.com](https://dev.botframework.com)
