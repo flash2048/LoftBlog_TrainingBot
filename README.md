@@ -7,4 +7,4 @@
 * [Урок 5](https://github.com/flash2048/LoftBlog_TrainingBot/tree/master/Lesson5) -Работа с диалогами в чат-ботах. 
 * [Урок 6](https://github.com/flash2048/LoftBlog_TrainingBot/tree/master/Lesson6) - Работа с FormFlow в чат-ботах.
 * [Урок 7](https://github.com/flash2048/LoftBlog_TrainingBot/tree/master/Lesson7) -  Работа с базами данных в чат-ботах.
-* [Урок 8](https://github.com/flash2048/LoftBlog_TrainingBot/tree/master/Lesson8) -  Непрерывная интеграция. Работа с TeamCity.
+* [Урок 8](https://github.com/flash2048/LoftBlog_TrainingBot/tree/master/Lesson7) -  Непрерывная интеграция. Работа с TeamCity. (*дополнялись файлы седьмого урока*)
