@@ -1,2 +1,4 @@
 # Материалы третьего урока
-https://dev.botframework.com
+Оптимизация работы с командами. Использование рефлексии. Отладка работающего бота..
+
+[https://dev.botframework.com](https://dev.botframework.com)
