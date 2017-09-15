@@ -160,7 +160,7 @@
     <Compile Include="Models\Enums\LanguageEnums.cs" />
     <Compile Include="Models\InterviewModel.cs" />
     <Compile Include="Models\UserDto.cs" />
-    <Compile Include="obj\BotService.cs" />
+    <Compile Include="BotService.cs" />
     <Compile Include="Commands\Help.cs" />
     <Compile Include="Commands\ToUpper.cs" />
     <Compile Include="Controllers\MessagesController.cs" />

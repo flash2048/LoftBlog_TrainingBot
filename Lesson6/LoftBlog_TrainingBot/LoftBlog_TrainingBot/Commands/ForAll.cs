@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using LoftBlog_TrainingBot.Interfaces;
-using LoftBlog_TrainingBot.obj;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 

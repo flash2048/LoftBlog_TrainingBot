@@ -126,8 +126,8 @@
     <Compile Include="Commands\NewGuid.cs" />
     <Compile Include="Commands\ToLower.cs" />
     <Compile Include="Commands\Userinfo.cs" />
-    <Compile Include="Models\UserInfo.cs" />
-    <Compile Include="obj\BotService.cs" />
+    <Compile Include="Models\UserDto.cs" />
+    <Compile Include="BotService.cs" />
     <Compile Include="Commands\Help.cs" />
     <Compile Include="Commands\ToUpper.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
