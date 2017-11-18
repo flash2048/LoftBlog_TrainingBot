@@ -11,3 +11,6 @@
 ---
 * Пример бота в [Telegram](https://telegram.me/lbtraining_bot)
 * Пример бота в [Skype](https://join.skype.com/bot/aebcdf3e-586c-4170-b3ce-9b8f12cbe752)
+---
+* [http://aka.ms/bf-bc-vstemplate](http://aka.ms/bf-bc-vstemplate) - Шаблон чат-бота для Visual Studio.
+* [https://github.com/Microsoft/BotFramework-Emulator](https://github.com/Microsoft/BotFramework-Emulator) - Microsoft Bot Framework Channel Emulator.
